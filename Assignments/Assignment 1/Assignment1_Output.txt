@@ -1,0 +1,504 @@
+                              Hash Table
+                          Verification Report
+                          BEFORE Restoration
+
+
+PRIMARY BUCKETS:
+
+Bucket 1 :  
+     Slot 1 :  Key: GENOA SYST   - Data:  TRIMBLE SAN JOSE, CA  
+     Slot 2 :  <EMPTY> 
+     Slot 3 :  <EMPTY> 
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 2 :  
+     Slot 1 :  Key: TATUNG CO.   - Data:  EL PR. LONG BEACH CA  
+     Slot 2 :  Key: CORE INTER   - Data:  FEDERA BOCA RATON FL  
+     Slot 3 :  Key: CURITS INC   - Data:  UNIO PETERBOROUGH NH  
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 3 :  
+     Slot 1 :  Key: SIGMA DESI   - Data:  UNIVER A SAN JOSE CA  
+     Slot 2 :  Key: TAXAN CORP   - Data:  CITY OF INDUSTRY, CA  
+     Slot 3 :  Key: ORCHID COR   - Data:  WESTINGHO FREMONT CA  
+     Overflow Pointer: 26      
+
+
+Bucket 4 :  
+     Slot 1 :  Key: MICRODESIG   - Data:  UNVIE WINTER PARK FL  
+     Slot 2 :  Key: PARADISE S   - Data:  TAYLOR S BRISBANE CA  
+     Slot 3 :  Key: INTERLUDE.   - Data:  RICHMOND HOUSTON, TX  
+     Overflow Pointer: 24      
+
+
+Bucket 5 :  
+     Slot 1 :  Key: AST RESEAR   - Data:  ALTON AV IRVINE   CA  
+     Slot 2 :  Key: DAC SW INC   - Data:  SPRING VAL DALLAS TX  
+     Slot 3 :  Key: COMPUADD C   - Data:  TECH BLVD. AUSTIN TX  
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 6 :  
+     Slot 1 :  Key: MAYNARD EL   - Data:  SEMOR CASSELBERRY FL  
+     Slot 2 :  <EMPTY> 
+     Slot 3 :  <EMPTY> 
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 7 :  
+     Slot 1 :  Key: SUMMIT TEC   - Data:  BABSON WELLESLEY, MA  
+     Slot 2 :  Key: MICROGRAFX   - Data:  GREEN RICHARDSON, TX  
+     Slot 3 :  Key: BUSSIN TOL   - Data:  128 AVE BELLEVUE, WA  
+     Overflow Pointer: 25      
+
+
+Bucket 8 :  
+     Slot 1 :  Key: ROSESOFT C   - Data:  UNIVE WAY SEATTLE WA  
+     Slot 2 :  Key: OKIDATA CO   - Data:  A MOUNTAIN LAUREL NJ  
+     Slot 3 :  <EMPTY> 
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 9 :  
+     Slot 1 :  Key: TECMAR INT   - Data:  COCHRAN RD. SOLON OH  
+     Slot 2 :  Key: QUANTUM SW   - Data:  STAFFO OTTAWA CANADA  
+     Slot 3 :  <EMPTY> 
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 10:  
+     Slot 1 :  Key: PRINCETON.   - Data:  EWING S PRINCETON NJ  
+     Slot 2 :  Key: HEWLETT PA   - Data:  BERNARD SAN DIEGO CA  
+     Slot 3 :  Key: SPECTRUM S   - Data:  WOLFE R SUNNYVALE CA  
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 11:  
+     Slot 1 :  Key: MAXELL CO.   - Data:  OXFORD  MOONACHIE NJ  
+     Slot 2 :  Key: SOURCE TEL   - Data:  POBOX 1305 MCLEAN VA  
+     Slot 3 :  Key: QUBIE CORP   - Data:  CALLE S CAMARILLO CA  
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 12:  
+     Slot 1 :  Key: KAMERMAN L   - Data:  CIRRUS BEAVERTON, OR  
+     Slot 2 :  Key: EPSON AMER   - Data:  BEDA STR TORRANCE CA  
+     Slot 3 :  Key: DIGITAL RE   - Data:  GARDEN C MONTEREY CA  
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 13:  
+     Slot 1 :  Key: HERCULES C   - Data:  NINTH ST BERKELEY CA  
+     Slot 2 :  Key: MICROMART.   - Data:  CAMPUS D NORCROSS GE  
+     Slot 3 :  Key: BORTHER I.   - Data:  THENALA DR IRVINE CA  
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 14:  
+     Slot 1 :  Key: EXPRESS SY   - Data:  REMING SCHAUMBURG IL  
+     Slot 2 :  Key: IOMEGA COR   - Data:  WESTA SOUTH ROY UTAH  
+     Slot 3 :  Key: BORLAND I.   - Data:  SCOTTS V. DR S.V. CA  
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 15:  
+     Slot 1 :  <EMPTY> 
+     Slot 2 :  <EMPTY> 
+     Slot 3 :  <EMPTY> 
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 16:  
+     Slot 1 :  Key: GRAPHIC CO   - Data:  5TH AVE. WALTHAM, MA  
+     Slot 2 :  Key: MICROPRO I   - Data:  BOX 57135 HAYWARD CA  
+     Slot 3 :  Key: PROSOFT CO   - Data:  BELLAI HOLLEYWOOD CA  
+     Overflow Pointer: 21      
+
+
+Bucket 17:  
+     Slot 1 :  Key: SSISOFTWAR   - Data:  CENTER ST. OREM UTAH  
+     Slot 2 :  Key: EVEREX SYS   - Data:  MILMONT FREMONT,  CA  
+     Slot 3 :  <EMPTY> 
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 18:  
+     Slot 1 :  Key: LOGIQUEST.   - Data:  MONTRE QUEBEC CANADA  
+     Slot 2 :  Key: IBM CORPOR   - Data:  BOCA RATON,  FLORIDA  
+     Slot 3 :  <EMPTY> 
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 19:  
+     Slot 1 :  Key: QUADRAM CO   - Data:  LOACH AV NORCROSS GE  
+     Slot 2 :  Key: MICROSTUF,   - Data:  H.W. PKWY ROSWELL GE  
+     Slot 3 :  Key: NCR COORPO   - Data:  BOWLING DR DAYTON OH  
+     Overflow Pointer: 22      
+
+
+Bucket 20:  
+     Slot 1 :  Key: VEN-TAL IN   - Data:  WALSH SANTA CLARA CA  
+     Slot 2 :  Key: VICTOR COR   - Data:  SCOTTS VALLEY, CALIF  
+     Slot 3 :  Key: INTEL COOR   - Data:  5 ST MOUNTAINVIEW CA  
+     Overflow Pointer: 23      
+
+
+
+OVERFLOW BUCKETS:
+
+Bucket 21:  
+     Slot 1 :  Key: HONEYWELL.   - Data:  BAKER COSTA MESA, CA  
+     Slot 2 :  <EMPTY> 
+     Slot 3 :  <EMPTY> 
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 22:  
+     Slot 1 :  Key: EMERSON CO   - Data:  STAN ST SANTA ANA CA  
+     Slot 2 :  Key: AMDEK COR.   - Data:  MAINE GROVE VALLY IL  
+     Slot 3 :  <EMPTY> 
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 23:  
+     Slot 1 :  Key: CHANNELS I   - Data:  KI ST TORONTO CANADA  
+     Slot 2 :  <EMPTY> 
+     Slot 3 :  <EMPTY> 
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 24:  
+     Slot 1 :  Key: TALLTREE S   - Data:  SNTONIO PALO ALTO CA  
+     Slot 2 :  Key: PROMETHEUS   - Data:  FREMONT S FREMONT CA  
+     Slot 3 :  Key: FUNK SOFTW   - Data:  3RD ST CAMBRIDGE, MA  
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 25:  
+     Slot 1 :  Key: DYSAN CORP   - Data:  PAT H SANTA CLARA CA  
+     Slot 2 :  <EMPTY> 
+     Slot 3 :  <EMPTY> 
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 26:  
+     Slot 1 :  Key: MICROWAY C   - Data:  TEMPOHOUSE LONDON UK  
+     Slot 2 :  <EMPTY> 
+     Slot 3 :  <EMPTY> 
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 27:  
+     Slot 1 :  <EMPTY> 
+     Slot 2 :  <EMPTY> 
+     Slot 3 :  <EMPTY> 
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 28:  
+     Slot 1 :  <EMPTY> 
+     Slot 2 :  <EMPTY> 
+     Slot 3 :  <EMPTY> 
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 29:  
+     Slot 1 :  <EMPTY> 
+     Slot 2 :  <EMPTY> 
+     Slot 3 :  <EMPTY> 
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 30:  
+     Slot 1 :  <EMPTY> 
+     Slot 2 :  <EMPTY> 
+     Slot 3 :  <EMPTY> 
+     Overflow Pointer: <EMPTY> 
+
+
+
+
+
+
+                              Hash Table
+                          Verification Report
+                           AFTER Restoration
+
+
+PRIMARY BUCKETS:
+
+Bucket 1 :  
+     Slot 1 :  Key: GENOA SYST   - Data:  TRIMBLE SAN JOSE, CA  
+     Slot 2 :  <EMPTY> 
+     Slot 3 :  <EMPTY> 
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 2 :  
+     Slot 1 :  Key: TATUNG CO.   - Data:  EL PR. LONG BEACH CA  
+     Slot 2 :  Key: CORE INTER   - Data:  FEDERA BOCA RATON FL  
+     Slot 3 :  Key: CURITS INC   - Data:  UNIO PETERBOROUGH NH  
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 3 :  
+     Slot 1 :  Key: SIGMA DESI   - Data:  UNIVER A SAN JOSE CA  
+     Slot 2 :  Key: TAXAN CORP   - Data:  CITY OF INDUSTRY, CA  
+     Slot 3 :  Key: ORCHID COR   - Data:  WESTINGHO FREMONT CA  
+     Overflow Pointer: 26      
+
+
+Bucket 4 :  
+     Slot 1 :  Key: MICRODESIG   - Data:  UNVIE WINTER PARK FL  
+     Slot 2 :  Key: PARADISE S   - Data:  TAYLOR S BRISBANE CA  
+     Slot 3 :  Key: INTERLUDE.   - Data:  RICHMOND HOUSTON, TX  
+     Overflow Pointer: 24      
+
+
+Bucket 5 :  
+     Slot 1 :  Key: AST RESEAR   - Data:  ALTON AV IRVINE   CA  
+     Slot 2 :  Key: DAC SW INC   - Data:  SPRING VAL DALLAS TX  
+     Slot 3 :  Key: COMPUADD C   - Data:  TECH BLVD. AUSTIN TX  
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 6 :  
+     Slot 1 :  Key: MAYNARD EL   - Data:  SEMOR CASSELBERRY FL  
+     Slot 2 :  <EMPTY> 
+     Slot 3 :  <EMPTY> 
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 7 :  
+     Slot 1 :  Key: SUMMIT TEC   - Data:  BABSON WELLESLEY, MA  
+     Slot 2 :  Key: MICROGRAFX   - Data:  GREEN RICHARDSON, TX  
+     Slot 3 :  Key: BUSSIN TOL   - Data:  128 AVE BELLEVUE, WA  
+     Overflow Pointer: 25      
+
+
+Bucket 8 :  
+     Slot 1 :  Key: ROSESOFT C   - Data:  UNIVE WAY SEATTLE WA  
+     Slot 2 :  Key: OKIDATA CO   - Data:  A MOUNTAIN LAUREL NJ  
+     Slot 3 :  <EMPTY> 
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 9 :  
+     Slot 1 :  Key: TECMAR INT   - Data:  COCHRAN RD. SOLON OH  
+     Slot 2 :  Key: QUANTUM SW   - Data:  STAFFO OTTAWA CANADA  
+     Slot 3 :  <EMPTY> 
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 10:  
+     Slot 1 :  Key: PRINCETON.   - Data:  EWING S PRINCETON NJ  
+     Slot 2 :  Key: HEWLETT PA   - Data:  BERNARD SAN DIEGO CA  
+     Slot 3 :  Key: SPECTRUM S   - Data:  WOLFE R SUNNYVALE CA  
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 11:  
+     Slot 1 :  Key: MAXELL CO.   - Data:  OXFORD  MOONACHIE NJ  
+     Slot 2 :  Key: SOURCE TEL   - Data:  POBOX 1305 MCLEAN VA  
+     Slot 3 :  Key: QUBIE CORP   - Data:  CALLE S CAMARILLO CA  
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 12:  
+     Slot 1 :  Key: KAMERMAN L   - Data:  CIRRUS BEAVERTON, OR  
+     Slot 2 :  Key: EPSON AMER   - Data:  BEDA STR TORRANCE CA  
+     Slot 3 :  Key: DIGITAL RE   - Data:  GARDEN C MONTEREY CA  
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 13:  
+     Slot 1 :  Key: HERCULES C   - Data:  NINTH ST BERKELEY CA  
+     Slot 2 :  Key: MICROMART.   - Data:  CAMPUS D NORCROSS GE  
+     Slot 3 :  Key: BORTHER I.   - Data:  THENALA DR IRVINE CA  
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 14:  
+     Slot 1 :  Key: EXPRESS SY   - Data:  REMING SCHAUMBURG IL  
+     Slot 2 :  Key: IOMEGA COR   - Data:  WESTA SOUTH ROY UTAH  
+     Slot 3 :  Key: BORLAND I.   - Data:  SCOTTS V. DR S.V. CA  
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 15:  
+     Slot 1 :  <EMPTY> 
+     Slot 2 :  <EMPTY> 
+     Slot 3 :  <EMPTY> 
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 16:  
+     Slot 1 :  Key: GRAPHIC CO   - Data:  5TH AVE. WALTHAM, MA  
+     Slot 2 :  Key: MICROPRO I   - Data:  BOX 57135 HAYWARD CA  
+     Slot 3 :  Key: PROSOFT CO   - Data:  BELLAI HOLLEYWOOD CA  
+     Overflow Pointer: 21      
+
+
+Bucket 17:  
+     Slot 1 :  Key: SSISOFTWAR   - Data:  CENTER ST. OREM UTAH  
+     Slot 2 :  Key: EVEREX SYS   - Data:  MILMONT FREMONT,  CA  
+     Slot 3 :  <EMPTY> 
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 18:  
+     Slot 1 :  Key: LOGIQUEST.   - Data:  MONTRE QUEBEC CANADA  
+     Slot 2 :  Key: IBM CORPOR   - Data:  BOCA RATON,  FLORIDA  
+     Slot 3 :  <EMPTY> 
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 19:  
+     Slot 1 :  Key: QUADRAM CO   - Data:  LOACH AV NORCROSS GE  
+     Slot 2 :  Key: MICROSTUF,   - Data:  H.W. PKWY ROSWELL GE  
+     Slot 3 :  Key: NCR COORPO   - Data:  BOWLING DR DAYTON OH  
+     Overflow Pointer: 22      
+
+
+Bucket 20:  
+     Slot 1 :  Key: VEN-TAL IN   - Data:  WALSH SANTA CLARA CA  
+     Slot 2 :  Key: VICTOR COR   - Data:  SCOTTS VALLEY, CALIF  
+     Slot 3 :  Key: INTEL COOR   - Data:  5 ST MOUNTAINVIEW CA  
+     Overflow Pointer: 23      
+
+
+
+OVERFLOW BUCKETS:
+
+Bucket 21:  
+     Slot 1 :  Key: HONEYWELL.   - Data:  BAKER COSTA MESA, CA  
+     Slot 2 :  <EMPTY> 
+     Slot 3 :  <EMPTY> 
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 22:  
+     Slot 1 :  Key: EMERSON CO   - Data:  STAN ST SANTA ANA CA  
+     Slot 2 :  Key: AMDEK COR.   - Data:  MAINE GROVE VALLY IL  
+     Slot 3 :  <EMPTY> 
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 23:  
+     Slot 1 :  Key: CHANNELS I   - Data:  KI ST TORONTO CANADA  
+     Slot 2 :  <EMPTY> 
+     Slot 3 :  <EMPTY> 
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 24:  
+     Slot 1 :  Key: TALLTREE S   - Data:  SNTONIO PALO ALTO CA  
+     Slot 2 :  Key: PROMETHEUS   - Data:  FREMONT S FREMONT CA  
+     Slot 3 :  Key: FUNK SOFTW   - Data:  3RD ST CAMBRIDGE, MA  
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 25:  
+     Slot 1 :  Key: DYSAN CORP   - Data:  PAT H SANTA CLARA CA  
+     Slot 2 :  <EMPTY> 
+     Slot 3 :  <EMPTY> 
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 26:  
+     Slot 1 :  Key: MICROWAY C   - Data:  TEMPOHOUSE LONDON UK  
+     Slot 2 :  <EMPTY> 
+     Slot 3 :  <EMPTY> 
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 27:  
+     Slot 1 :  <EMPTY> 
+     Slot 2 :  <EMPTY> 
+     Slot 3 :  <EMPTY> 
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 28:  
+     Slot 1 :  <EMPTY> 
+     Slot 2 :  <EMPTY> 
+     Slot 3 :  <EMPTY> 
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 29:  
+     Slot 1 :  <EMPTY> 
+     Slot 2 :  <EMPTY> 
+     Slot 3 :  <EMPTY> 
+     Overflow Pointer: <EMPTY> 
+
+
+Bucket 30:  
+     Slot 1 :  <EMPTY> 
+     Slot 2 :  <EMPTY> 
+     Slot 3 :  <EMPTY> 
+     Overflow Pointer: <EMPTY> 
+
+
+
+
+
+
+                       Search and Retrieval
+                           Transactions
+
+
+Search Key     Bucket/Slot      --- Record Data ----                        
+KALLTREE S                      Record not found    
+DAC SW INC        5/2           SPRING VAL DALLAS TX
+COMPUADD C        5/3           TECH BLVD. AUSTIN TX
+MICROWAY C       26/1           TEMPOHOUSE LONDON UK
+TATUNG CO.        2/1           EL PR. LONG BEACH CA
+DYSAN CORP       25/1           PAT H SANTA CLARA CA
+DIGITAL RE       12/3           GARDEN C MONTEREY CA
+QUANTBM SW                      Record not found    
+PROMETHEUS       24/2           FREMONT S FREMONT CA
+EVEREX SYS       17/2           MILMONT FREMONT,  CA
+MICROMART.       13/2           CAMPUS D NORCROSS GE
+PARADISE S        4/2           TAYLOR S BRISBANE CA
+SPECTRUM S       10/3           WOLFE R SUNNYVALE CA
+MICRODESIG        4/1           UNVIE WINTER PARK FL
+MAXELL CO.       11/1           OXFORD  MOONACHIE NJ
+AMDEK COR,                      Record not found    
+TECMAR INT        9/1           COCHRAN RD. SOLON OH
+IBM CORPOR       18/2           BOCA RATON,  FLORIDA
+OHCHID COR                      Record not found    
+FUN  SOFTW                      Record not found    
+
+
+                              Hash Table
+                          Total Length Report
+
+
+PRIMARY BUCKETS:
+
+Bucket 1 :  1
+Bucket 2 :  3
+Bucket 3 :  4
+Bucket 4 :  6
+Bucket 5 :  3
+Bucket 6 :  1
+Bucket 7 :  4
+Bucket 8 :  2
+Bucket 9 :  2
+Bucket 10:  3
+Bucket 11:  3
+Bucket 12:  3
+Bucket 13:  3
+Bucket 14:  3
+Bucket 15:  0
+Bucket 16:  4
+Bucket 17:  2
+Bucket 18:  2
+Bucket 19:  5
+Bucket 20:  4
+
+Average Chain Length:3               
+

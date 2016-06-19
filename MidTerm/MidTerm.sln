@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MidTerm", "MidTerm.vcproj", "{BEE2E966-14B4-4B08-9B7F-BF6C8E6FFD7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{BEE2E966-14B4-4B08-9B7F-BF6C8E6FFD7F}.Debug.ActiveCfg = Debug|Win32
+		{BEE2E966-14B4-4B08-9B7F-BF6C8E6FFD7F}.Debug.Build.0 = Debug|Win32
+		{BEE2E966-14B4-4B08-9B7F-BF6C8E6FFD7F}.Release.ActiveCfg = Release|Win32
+		{BEE2E966-14B4-4B08-9B7F-BF6C8E6FFD7F}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionItems) = postSolution
+		Item:1 = MidTerm.vsd
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,113 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Project 2 Class - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\TEMP\RSP1D.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/Project 2 Class.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\9. Course work\CIS 40\Projects\Project 2\Project 2 Class\StrClass.cpp"
+]
+Creating command line "cl.exe @C:\TEMP\RSP1D.tmp" 
+<h3>Output Window</h3>
+Compiling...
+StrClass.cpp
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.h(72) : error C2320: expected ':' to follow access specifier 'resolved identifier'
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(17) : error C2143: syntax error : missing ';' before 'PCH creation point'
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(17) : error C2653: 'String' : is not a class or namespace name
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(20) : error C2065: 'strData' : undeclared identifier
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(20) : error C2440: '=' : cannot convert from 'char *' to 'int'
+        This conversion requires a reinterpret_cast, a C-style cast or function-style cast
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(21) : error C2109: subscript requires array or pointer type
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(21) : error C2106: '=' : left operand must be l-value
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(22) : error C2065: 'strLength' : undeclared identifier
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(25) : warning C4508: 'String' : function should return a value; 'void' return type assumed
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(121) : error C2065: 'String_Length' : undeclared identifier
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(153) : error C2146: syntax error : missing ',' before identifier 'string_1'
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(153) : error C2061: syntax error : identifier 'string_1'
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(162) : error C2065: 'string_1' : undeclared identifier
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(163) : error C2065: 'string_2' : undeclared identifier
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(168) : error C2109: subscript requires array or pointer type
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(168) : error C2109: subscript requires array or pointer type
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(180) : error C2065: 'isalpha' : undeclared identifier
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(180) : error C2109: subscript requires array or pointer type
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(180) : error C2109: subscript requires array or pointer type
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(181) : error C2109: subscript requires array or pointer type
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(181) : error C2109: subscript requires array or pointer type
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(183) : error C2109: subscript requires array or pointer type
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(184) : error C2109: subscript requires array or pointer type
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(189) : error C2109: subscript requires array or pointer type
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(190) : error C2109: subscript requires array or pointer type
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(194) : error C2143: syntax error : missing ')' before ';'
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(196) : warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(213) : error C2556: 'const class cmitchell_string_nmspace::string &__thiscall cmitchell_string_nmspace::string::operator =(const class cmitchell_string_nmspace::string &)' : overloaded function differs only by return type from 'void __thiscall cmitchell_string_nmspace::string::operator =(const class cmitchell_string_nmspace::string &)'
+        d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.h(87) : see declaration of '='
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(213) : error C2040: '=' : 'const class cmitchell_string_nmspace::string &(const class cmitchell_string_nmspace::string &)' differs in levels of indirection from 'void (const class cmitchell_string_nmspace::string &)'
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(214) : error C2446: '!=' : no conversion from 'int *' to 'class cmitchell_string_nmspace::string *const '
+        Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(214) : error C2230: '!=' : indirection to different types
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(216) : error C2065: 'buffLen' : undeclared identifier
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(216) : error C2228: left of '.strLength' must have class/struct/union type
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(219) : error C2065: 'strLentgh' : undeclared identifier
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(219) : error C2228: left of '.strLength' must have class/struct/union type
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(222) : error C2228: left of '.strLength' must have class/struct/union type
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(223) : error C2228: left of '.strData' must have class/struct/union type
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(234) : error C2556: 'const class cmitchell_string_nmspace::string &__thiscall cmitchell_string_nmspace::string::operator +=(const class cmitchell_string_nmspace::string &)' : overloaded function differs only by return type from 'void __thiscall cmitchell_string_nmspace::string::operator +=(const class cmitchell_string_nmspace::string &)'
+        d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.h(88) : see declaration of '+='
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(234) : error C2040: '+=' : 'const class cmitchell_string_nmspace::string &(const class cmitchell_string_nmspace::string &)' differs in levels of indirection from 'void (const class cmitchell_string_nmspace::string &)'
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(245) : error C2228: left of '.strData' must have class/struct/union type
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(256) : error C2511: '[]' : overloaded member function 'char &(int)' not found in 'cmitchell_string_nmspace::string'
+        d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.h(27) : see declaration of 'string'
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(268) : error C2511: '[]' : overloaded member function 'char (int) const' not found in 'cmitchell_string_nmspace::string'
+        d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.h(27) : see declaration of 'string'
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(292) : error C2597: illegal reference to data member 'string::strLength' in a static member function
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(294) : error C2264: '=' : error in function definition or declaration; function not called
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(306) : error C2597: illegal reference to data member 'string::strLength' in a static member function
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(307) : error C2039: 'MAX_LENGTH' : is not a member of 'string'
+        d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.h(27) : see declaration of 'string'
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(307) : error C2065: 'MAX_LENGTH' : undeclared identifier
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(308) : error C2065: 'str' : undeclared identifier
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(308) : error C2440: '=' : cannot convert from 'char [1]' to 'int'
+        This conversion requires a reinterpret_cast, a C-style cast or function-style cast
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(319) : error C2248: 'strData' : cannot access private member declared in class 'cmitchell_string_nmspace::string'
+        d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.h(34) : see declaration of 'strData'
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(319) : error C2248: 'strData' : cannot access private member declared in class 'cmitchell_string_nmspace::string'
+        d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.h(34) : see declaration of 'strData'
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(319) : error C2660: 'String_Compare' : function does not take 2 parameters
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(330) : error C2248: 'strData' : cannot access private member declared in class 'cmitchell_string_nmspace::string'
+        d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.h(34) : see declaration of 'strData'
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(330) : error C2248: 'strData' : cannot access private member declared in class 'cmitchell_string_nmspace::string'
+        d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.h(34) : see declaration of 'strData'
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(330) : error C2660: 'String_Compare' : function does not take 2 parameters
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(341) : error C2248: 'strData' : cannot access private member declared in class 'cmitchell_string_nmspace::string'
+        d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.h(34) : see declaration of 'strData'
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(341) : error C2248: 'strData' : cannot access private member declared in class 'cmitchell_string_nmspace::string'
+        d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.h(34) : see declaration of 'strData'
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(341) : error C2660: 'String_Compare' : function does not take 2 parameters
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(352) : error C2248: 'strData' : cannot access private member declared in class 'cmitchell_string_nmspace::string'
+        d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.h(34) : see declaration of 'strData'
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(352) : error C2248: 'strData' : cannot access private member declared in class 'cmitchell_string_nmspace::string'
+        d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.h(34) : see declaration of 'strData'
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(352) : error C2660: 'String_Compare' : function does not take 2 parameters
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(363) : error C2248: 'strData' : cannot access private member declared in class 'cmitchell_string_nmspace::string'
+        d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.h(34) : see declaration of 'strData'
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(363) : error C2248: 'strData' : cannot access private member declared in class 'cmitchell_string_nmspace::string'
+        d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.h(34) : see declaration of 'strData'
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(363) : error C2660: 'String_Compare' : function does not take 2 parameters
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(374) : error C2248: 'strData' : cannot access private member declared in class 'cmitchell_string_nmspace::string'
+        d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.h(34) : see declaration of 'strData'
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(374) : error C2248: 'strData' : cannot access private member declared in class 'cmitchell_string_nmspace::string'
+        d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.h(34) : see declaration of 'strData'
+d:\9. course work\cis 40\projects\project 2\project 2 class\strclass.cpp(374) : error C2660: 'String_Compare' : function does not take 2 parameters
+Error executing cl.exe.
+
+
+
+<h3>Results</h3>
+StrClass.obj - 65 error(s), 2 warning(s)
+</pre>
+</body>
+</html>

@@ -1,0 +1,88 @@
+const string &string::operator+=( const string& String_1 )
+{
+    if( this == &string_1 )
+    {
+        string copy( string_1 );
+        return *this += copy;
+    }
+
+    int newLength = length( ) + string_2.length( );
+    if( newLength >= buffLen )
+    {
+        buffLen = 2 * ( newLength + 1 );
+
+        char *oldstrData = strData;
+        strData = new char[ buffLen ];
+        strcpy( strData, oldstrData );
+        delete [ ] oldstrData;
+    }
+
+    strcpy( strData + length( ), string_2.strData );
+    strLength = newLength;
+    return *this;
+}
+
+char & string::operator[ ]( int k )
+{
+    if( k < 0 || k >= strLength )
+        throw StringIndexOutOfBounds( );
+    return strData[ k ];
+}
+
+char string::operator[ ]( int k ) const
+{
+    if( k < 0 || k >= strLength )
+        throw StringIndexOutOfBounds( );
+    return strData[ k ];
+}
+
+ostream & operator<<( ostream & out, const string & str )
+{
+    return out << str.c_str();
+}
+
+istream & operator>>( istream & in, string & str )
+{
+    char buf[ string::MAX_LENGTH + 1 ];
+    in >> buf;
+    str = buf;
+    return in;
+}
+
+istream & getline( istream & in, string & str )
+{
+    char buf[ string::MAX_LENGTH + 1 ];
+    in.getline( buf, string::MAX_LENGTH );
+    str = buf;
+    return in;
+}
+
+bool operator==( const string & string_1, const string & string_2 )
+{
+    return strcmp( string_1.c_str( ), string_2.c_str( ) ) == 0;
+}
+
+bool operator!=( const string & string_1, const string & string_2 )
+{
+    return strcmp( string_1.c_str( ), string_2.c_str( ) ) != 0;
+}
+
+bool operator<( const string & string_1, const string & string_2 )
+{
+    return strcmp( string_1.c_str( ), string_2.c_str( ) ) < 0;
+}
+
+bool operator<=( const string & string_1, const string & string_2 )
+{
+    return strcmp( string_1.c_str( ), string_2.c_str( ) ) <= 0;
+}
+
+bool operator>( const string & string_1, const string & string_2 )
+{
+    return strcmp( string_1.c_str( ), string_2.c_str( ) ) > 0;
+}
+
+bool operator>=( const string & string_1, const string & string_2 )
+{
+    return strcmp( string_1.c_str( ), string_2.c_str( ) ) >= 0;
+}

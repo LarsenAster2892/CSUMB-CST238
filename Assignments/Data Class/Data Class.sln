@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Data Class", "Data Class.vcproj", "{1128D916-65AB-4BB4-A78C-E8C1040B0DE3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sort Class", "..\..\Assignments\Sort Class\Sort Class.vcproj", "{C06D4696-0F8E-49E5-B455-BC261E28CC4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{1128D916-65AB-4BB4-A78C-E8C1040B0DE3}.Debug.ActiveCfg = Debug|Win32
+		{1128D916-65AB-4BB4-A78C-E8C1040B0DE3}.Debug.Build.0 = Debug|Win32
+		{1128D916-65AB-4BB4-A78C-E8C1040B0DE3}.Release.ActiveCfg = Release|Win32
+		{1128D916-65AB-4BB4-A78C-E8C1040B0DE3}.Release.Build.0 = Release|Win32
+		{C06D4696-0F8E-49E5-B455-BC261E28CC4B}.Debug.ActiveCfg = Debug|Win32
+		{C06D4696-0F8E-49E5-B455-BC261E28CC4B}.Debug.Build.0 = Debug|Win32
+		{C06D4696-0F8E-49E5-B455-BC261E28CC4B}.Release.ActiveCfg = Release|Win32
+		{C06D4696-0F8E-49E5-B455-BC261E28CC4B}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
